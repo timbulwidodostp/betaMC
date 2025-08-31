@@ -1,6 +1,8 @@
 # betaMC
 Estimate Standardized Regression Coefficients and Generate the Corresponding Sampling Distribution Using the Monte Carlo Method Use betaMC With (In) R Software
 
+https://www.youtube.com/watch?v=PIp4JcSSNJU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
